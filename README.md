@@ -1,4 +1,4 @@
-## Hi there 👋 hello
+## Hello
 
 Meu nome é **Ana Vitoria Freitas**
 
